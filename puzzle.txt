@@ -34,15 +34,14 @@ H 6 2 RARE Not common or frequent; very unusual
 H 8 4 BANANA A long, curved fruit with a yellow skin and soft, sweet, white flesh inside
 H 9 3 ALIEN Relating to creatures from another planet
 H 10 4 RAW Not cooked
-V 1 2 ELECTRIC Power used by electronics
-V 1 7 SMOOTH Having a completely regular surface or consisting of one substance:
-V 1 3 LA Abbrev. Los Angeles
 V 1 1 TRIAL A test, usually over a limited period of time, to discover how effective or suitable something or someone is
-V 1 9 OPTION One thing that can be chosen from a set of possibilities, or the freedom to make a choice
-V 3 10 OWNER Belonging to or done by a particular person or thing
-V 4 4 PCR A test performed to detect genetic material from a specific organism, such as a virus
-V 6 3 AREA A particular part of a place, piece of land, or country
 V 7 1 TAXI A car with a driver who you pay to take you somewhere
+V 1 2 ELECTRIC Power used by electronics
+V 1 3 LA Abbrev. Los Angeles
+V 6 3 AREA A particular part of a place, piece of land, or country
+V 4 4 PCR A test performed to detect genetic material from a specific organism, such as a virus
 V 8 6 NEW Recently created or having started to exist recently
+V 1 7 SMOOTH Having a completely regular surface or consisting of one substance:
+V 1 9 OPTION One thing that can be chosen from a set of possibilities, or the freedom to make a choice
 V 8 9 ANT A very small insect that lives under the ground in large and well-organized social groups
-
+V 3 10 OWNER Belonging to or done by a particular person or thing
